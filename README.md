@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an Information Technology student at UFRN (5th period). As a full-stack developer, my expertise spans across both ends of the stack: I focus strongly on developing robust and scalable APIs on the back-end using Java and Spring Boot , while also creating dynamic, responsive, and high-performance interfaces on the front-end using ReactJS and TypeScript.I am fluent in English and possess a practical mastery of code versioning with Git. Beyond my technical skills, I am highly communicative and driven by an immense hunger to learn new technologies. I deeply value a collaborative work environment that is built on humility and free of arrogance.
+I am an Information Technology student at UFRN (5th period). As a full-stack developer, my expertise spans across both ends of the stack: I focus strongly on developing robust and scalable APIs on the back-end using Java and Spring Boot , while also creating dynamic, responsive, and high-performance interfaces on the front-end using ReactJS and TypeScript.I am fluent in English and possess a practical mastery of code versioning with Git. Beyond my technical skills, I am highly communicative and driven by an immense hunger to learn new technologies.
 
 
 ## 🌐 Socials:
